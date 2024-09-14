@@ -12,4 +12,4 @@ elif entrada == 'sair':  # Se a primeira condição não for satisfeita, verific
 else:  # Se nenhuma das condições anteriores for satisfeita (ou seja, o valor não foi 'entrar' nem 'sair'), executa o bloco abaixo.
     print('Você não digitou nem entrar e nem sair.')  # Exibe a mensagem informando que o usuário não digitou um valor válido.
 
-print('FORA DOS BLOCOS')  # Esta linha será sempre executada, independentemente das condições anteriores, pois está fora do bloco condicional.
+print('FORA DOS fLOCOS')  # Esta linha será sempre executada, independentemente das condições anteriores, pois está fora do bloco condicional.
