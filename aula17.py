@@ -21,4 +21,4 @@ else:
 if 10 == 10:
     print('Outro if')
 
-print('Fora do if')
+print('Fora dos if')
