@@ -14,7 +14,7 @@ elif condicao2:
 elif condicao3:
     print('Código para condição 3')
 elif condicao4:
-    print('Código para condição 4')
+    print('Código para condições 4')
 else:
     print('Nenhuma condição foi satisfeita.')
 
