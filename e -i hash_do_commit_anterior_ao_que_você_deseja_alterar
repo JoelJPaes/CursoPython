@@ -1,0 +1,155 @@
+[33mcommit 3d46e00c79f100c449295eac1d8384dc55abaf28[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Fri Sep 27 23:55:53 2024 -0300
+
+    strings são iteráveis
+
+[33mcommit 6f1888c7d69eb6e433bf691e0f0f8a788148a97a[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Thu Sep 26 01:54:19 2024 -0300
+
+    realocando
+
+[33mcommit cc1a1c06a619c8150d36d85c50a77cf0eb02192e[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Thu Sep 26 01:00:38 2024 -0300
+
+    comentada
+
+[33mcommit b411a1d60b000ed311a3056ca36b1833415cd569[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Thu Sep 19 20:09:35 2024 -0300
+
+    O Debugger do VS Code e o interpretador do Python lendo os código
+
+[33mcommit ce519dc68e415b588496fcd60b69a16b4de09c01[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Thu Sep 19 20:01:23 2024 -0300
+
+    teste
+
+[33mcommit 1685c404e09b4a86f66babe022dd60da57a1cb9a[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Thu Sep 19 19:57:49 2024 -0300
+
+    reorganizando
+
+[33mcommit 075c40c88b94e3470a2c8d280c71d218097352bc[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Wed Sep 18 00:32:47 2024 -0300
+
+    Ifs and Elses
+
+[33mcommit 5406844f4a20ec1e40340ac7821409727467428b[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Tue Sep 17 23:22:51 2024 -0300
+
+    modificação aula 16
+
+[33mcommit a2980114dfb02fa982dab9322e4a9ecba81e1108[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Sat Sep 14 23:30:14 2024 -0300
+
+     uma gitada com conteudos nostalgicos
+
+[33mcommit 01c9ac98e911bec3c7b873570847538395e87e59[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Sat Sep 14 23:19:07 2024 -0300
+
+     testando git
+
+[33mcommit 0883f09a486928ca5fb7d334abdeba0c6049deb6[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Sat Sep 14 00:02:33 2024 -0300
+
+    testando git2x
+
+[33mcommit 681855fe46b14508f89280f5ef07d54057e90ef2[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Fri Sep 13 23:58:53 2024 -0300
+
+    testando pushs no git
+
+[33mcommit f6c7c5c8fda75bc513ebc138f381712698b4e60c[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Fri Sep 13 23:41:58 2024 -0300
+
+    atualizações e aula 18 inclusa
+
+[33mcommit e07dadb601bfdd2dbc42900e75799eeea6604523[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Fri Sep 13 02:39:21 2024 -0300
+
+     bugou tudo?
+
+[33mcommit 41cc05afa61bdaba911f879dbe0cec20d28fd47b[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Fri Sep 13 02:34:13 2024 -0300
+
+    agora foi
+
+[33mcommit 503da1cd626c18fbcccd16a06c9d51868e902874[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Fri Sep 13 02:13:08 2024 -0300
+
+    atualizando 2
+
+[33mcommit 9321f40ff0bbb6bbd8317792ccc6aabb56a60e19[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Fri Sep 13 02:07:58 2024 -0300
+
+    atualizando alguns comentários
+
+[33mcommit 1834928d14da24c8015303de67845c8c79876f5e[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Thu Sep 12 02:23:38 2024 -0300
+
+    pequenas correções
+
+[33mcommit 6c9161fbc1600e579ff804ea61e535a1a7e6c1d6[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Thu Sep 12 00:18:15 2024 -0300
+
+    aula 17
+
+[33mcommit 8e4b2e44af601d38f55997df73cd928bfb424f4b[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Wed Sep 11 23:50:57 2024 -0300
+
+    apenas uns detalhes
+
+[33mcommit a31c38e6a55ca8f1af11bfaba9ba3378971b40b8[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Wed Sep 11 03:21:41 2024 -0300
+
+    Alterações 2
+
+[33mcommit e9d45c0ba9996d664b71f0b262d46d117fee1cb3[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Wed Sep 11 03:18:44 2024 -0300
+
+    Teste alterações em pastas
+
+[33mcommit 86e76c1aa49bc4610385dd21f74699d6afc2b320[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Wed Sep 11 03:06:24 2024 -0300
+
+    Ai vai a 16 aula
+
+[33mcommit 71079f313c18ad5b7b33b5fe72c6a24a646c7786[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Wed Sep 11 02:59:53 2024 -0300
+
+    Encaminho minha 15 aula
+
+[33mcommit c8e598d36b85221d042d52bb1bd12c0694d6fb17[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Wed Sep 11 02:27:07 2024 -0300
+
+    Eu coloquei a imagem do MoW2 como exemplo
+
+[33mcommit d944aa57975ace005cdf7cc1e8bce0d1104a32ab[m
+Author: Joel Paes <jodenis@outlook.com>
+Date:   Wed Sep 11 02:13:10 2024 -0300
+
+    Meu Primeiro Commitzinho
